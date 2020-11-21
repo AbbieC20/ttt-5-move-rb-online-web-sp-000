@@ -7,3 +7,6 @@ def display_board(board)
 end
 
 input_to_index(input.to_i)
+
+puts "Welcome to Tic Tac Toe!"
+puts "Where would you like to go?"
