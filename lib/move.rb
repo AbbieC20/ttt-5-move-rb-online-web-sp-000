@@ -7,3 +7,4 @@ def display_board(board)
 end
 
 input_to_index(input.to_i)
+input = index
