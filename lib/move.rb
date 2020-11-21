@@ -15,5 +15,3 @@ def move (board, index, character = "X")
   puts index
   puts character
 end
-
-move([], 0, "O")
