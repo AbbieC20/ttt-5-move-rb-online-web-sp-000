@@ -16,8 +16,6 @@ def move(board, index, character = "X")
   puts character
 end
 
-
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-input = gets.strip
-index = input_to_index(input)
-move(board, index, "X")
+def hello(name)
+  puts "Hello #{name}!"
+end
