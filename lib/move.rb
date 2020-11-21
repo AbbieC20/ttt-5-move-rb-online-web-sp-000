@@ -15,3 +15,9 @@ def move(board, index, character = "X")
   puts index
   puts character
 end
+
+
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+input = gets.strip
+index = input_to_index(input)
+move(board, index, "X")
