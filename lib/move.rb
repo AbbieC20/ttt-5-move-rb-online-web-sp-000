@@ -10,4 +10,4 @@ def input_to_index(input)
   input.to_i
 end
 
-input_to_index("2")
+puts input_to_index("2")
