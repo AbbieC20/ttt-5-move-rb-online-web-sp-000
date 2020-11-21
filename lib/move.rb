@@ -6,5 +6,9 @@ def display_board(board)
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
+input_to_index(input.to_i)
+
+
+
 puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
