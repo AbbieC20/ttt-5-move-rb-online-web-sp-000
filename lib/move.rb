@@ -21,7 +21,7 @@ def hello(name)
 end
 
 my_name = "Abbie"
-other_name "Connor"
+other_name = "Connor"
 hello(my_name)
 hello("FOO")
 hello(other_name)
