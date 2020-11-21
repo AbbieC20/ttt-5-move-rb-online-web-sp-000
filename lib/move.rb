@@ -10,4 +10,4 @@ def input_to_index(input)
   input.to_i - 1
 end
 
-puts input_to_index(8)
+puts input_to_index("9")
