@@ -20,5 +20,5 @@ def hello(name)
   puts "Hello #{name}!"
 end
 
-
+my_name = "Abbie"
 hello(my_name)
