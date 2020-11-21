@@ -16,4 +16,4 @@ def move (board, index, character = "X")
   puts character
 end
 
-move([], 0)
+move([], 0, "O")
